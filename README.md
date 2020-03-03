@@ -12,8 +12,12 @@ Assignment 1: Probability, Linear Algebra, Programming, and Git
 
 Assignment 2:
 - 
-- 
-- 
+- Conceptual Questions (Q1~2)
+- Practical Questions (Q3~)
+  - Classification (Q3)
+  - Building KNN class using numpy (Q4)
+  - Bias-variance tradeoff (Q5~6)
+  - Linear regression and nonlinear transformations (Q7)
 
 Assignment 3:
 - 
