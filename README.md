@@ -4,9 +4,9 @@ https://kylebradbury.github.io/ids705/
 
 Assignment 1: Probability, Linear Algebra, Programming, and Git
 
-Probability and Statistics Theory review
-Linear algebra calculation in Python
-Numerical Programming
+- Probability and Statistics Theory review
+- Linear algebra calculation in Python
+- Numerical Programming
 
 Assignment 2:
 
