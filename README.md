@@ -8,7 +8,7 @@ Assignment 1: Probability, Linear Algebra, Programming, and Git
 - Probability and Statistics Theory review (Q1~5)
 - Linear algebra calculation in Python (Q6~7)
 - Numerical Programming (Q8~12)
-- Exploratory Data Analysis (Q13)
+- Exploratory Data Analysis: Tastes of Physical Console Gaming (Q13)
 
 Assignment 2:
 - 
@@ -21,5 +21,7 @@ Assignment 2:
 
 Assignment 3:
 - 
-- 
-- 
+- Logistic Regression: Mathematical derivation / build and test a logistic regression class in Python (Q1)
+- Digits classification (Q2)
+- Comparing the Bayes' decision rule with logistic regression (Q3)
+- Supervised learning exploration: Gender Classification (Q4)
