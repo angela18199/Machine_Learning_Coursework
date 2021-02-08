@@ -1,4 +1,4 @@
-# Machine Learning in-class works
+# Machine Learning in-class works (spring 2020)
 Assignments done in the IDS705 Principles of Machine Learning at Duke University taught by Kyle Bradbury
 https://kylebradbury.github.io/ids705/
 
